@@ -1,17 +1,25 @@
 body{
-	background-color: #F4EEEE;
+	background-color: #FEFCFC;
 	font-family: 'Anonymous Pro', monospace;
+}
+
+p{
+	padding: 50px;
 }
 
 h1{
 	text-align: center;
 	background-color: #E2D9D9;
-	padding:30px;
+	padding: 30px;
+}
+
+h2{
+	margin: 10px auto 10px 10px;
 }
 
 img{
 	float: left;
-	width: 550px;
-	height:450px;
+	width: 450px;
+	height: 350px;
 	margin-right: 20px;
 }
